@@ -7,10 +7,10 @@ subtitle: Ph.D. candidate. <a href='https://lsa.umich.edu/stats'>Department of S
 profile:
   align: right
   image: avatar.jpg
-  image_size: 150
-  image_circular: true # crops the image to make it circular
+  image_size: 50
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: shushuz at umich dot com
+    <p>Email: shushuz at umich dot com</p>
     <p>Address: 436 West Hall, 1085 S University Ave, Ann Arbor, Michigan, 48109</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
