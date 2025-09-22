@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://lsa.umich.edu/stats'>Department of Statistics, U-M Ann Arbor</a>. Ph.D. in Statistics.
+subtitle: <a href='https://lsa.umich.edu/stats'>Department of Statistics, U-M Ann Arbor</a>. Ph.D. candidate in Statistics.
 
 profile:
   align: right
@@ -19,13 +19,18 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+
+I am a Ph.D. candidate from department of Statistics at University of Michigan. I am very fortunate to be advised by Professors [Xuming He](https://sds.wustl.edu/people/xuming-he) and [Kean Ming Tan](http://www.keanmingtan.com/). My research interests lie in expected shortfall regression, causal inference, tree-based methods, and stochastic optimization. 
+
+See my publications on my [publications](/publications/) page. See my Google Scholar profile [here](https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en). See my CV <a href="https://husun0822.github.io/assets/pdf/CV_SZ.pdf"> [here]</a></li>.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 <!---->
