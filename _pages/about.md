@@ -7,11 +7,11 @@ subtitle: <a href='https://lsa.umich.edu/stats'>Department of Statistics, U-M An
 profile:
   align: right
   image: avatar.jpg
-  image_circular: false # crops the image to make it circular
+  image_size: 150
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>436 West Hall, 1085 S University Ave</p>
-    <p>Ann Arbor, Michigan, 48109</p>
-    <p>shushuz at umich dot com</p>
+    <p>Email: shushuz at umich dot com
+    <p>Address: 436 West Hall, 1085 S University Ave, Ann Arbor, Michigan, 48109</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -30,7 +30,7 @@ latest_posts:
 
 I am a Ph.D. candidate from department of Statistics at University of Michigan. I am very fortunate to be advised by Professors [Xuming He](https://sds.wustl.edu/people/xuming-he) and [Kean Ming Tan](http://www.keanmingtan.com/). My research interests lie in expected shortfall regression, causal inference, tree-based methods, and stochastic optimization. 
 
-See my publications on my [publications](/publications/) page. See my Google Scholar profile [here](https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en). See my CV <a href="https://husun0822.github.io/assets/pdf/CV_SZ.pdf"> [here]</a></li>.
+See my publications on my [publications](/publications/) page. See my Google Scholar profile [here](https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en). See my CV <a href="https://husun0822.github.io/assets/pdf/CV_SZ.pdf"> [here]</a>.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 <!---->
