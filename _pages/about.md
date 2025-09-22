@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-I am a Ph.D. candidate of Statistics at University of Michigan. I am very fortunate to be advised by Professors [Xuming He](https://sds.wustl.edu/people/xuming-he) and [Kean Ming Tan](http://www.keanmingtan.com/). My research interests lie in expected shortfall regression, causal inference, tree-based methods, and stochastic optimization. 
+I am a Ph.D. candidate of Statistics at University of Michigan. I am very fortunate to be advised by Prof. [Xuming He](https://sds.wustl.edu/people/xuming-he) and Prof. [Kean Ming Tan](http://www.keanmingtan.com/). Prior to this, I obtained my M.S. in statistics from University of Wisconsin-Madison, where I was privileged to be advised by Prof. [Vivak Patel](https://pages.stat.wisc.edu/~vrpatel6/). My research interests lie in expected shortfall regression, causal inference, tree-based methods, and stochastic optimization. 
 
 See my publications on my [publications](/publications/) page. See my Google Scholar profile [here](https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en). See my CV <a href="https://shushuzh.github.io/assets/pdf/CV_SZ.pdf"> [here]</a>.
 
