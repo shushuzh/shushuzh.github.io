@@ -391,16 +391,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_long_example/";
+            },},{id: "news-i-received-2023-statistical-learning-and-data-science-student-paper-award",
+          title: 'I received 2023 Statistical Learning and Data Science Student Paper Award!',
+          description: "",
+          section: "News",},{id: "news-my-paper-on-high-dimensional-expected-shortfall-regression-is-published-on-journal-of-the-american-statistical-association",
+          title: 'My paper on High-dimensional Expected Shortfall Regression is published on Journal of the...',
+          description: "",
+          section: "News",},{id: "news-i-started-my-internship-at-point72-internal-alpha-capture-iac-team-as-a-quantitative-researcher",
+          title: 'I started my internship at Point72 internal alpha capture (IAC) team as a...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
