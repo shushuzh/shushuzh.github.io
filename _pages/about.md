@@ -30,7 +30,7 @@ latest_posts:
 
 I am a Ph.D. candidate of Statistics at University of Michigan. I am very fortunate to be advised by Prof. [Xuming He](https://sds.wustl.edu/people/xuming-he) and Prof. [Kean Ming Tan](http://www.keanmingtan.com/). Prior to this, I obtained my M.S. in statistics from University of Wisconsin-Madison, where I was privileged to be advised by Prof. [Vivak Patel](https://pages.stat.wisc.edu/~vrpatel6/). My research interests lie in expected shortfall regression, causal inference, tree-based methods, and stochastic optimization. 
 
-See my publications on my [publications](/publications/) page. See my Google Scholar profile [here](https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en). See my CV <a href="https://shushuzh.github.io/assets/pdf/CV_SZ.pdf"> [here]</a>.
+See my publications on my [publications](/publications/) page. See my Google Scholar profile [here](https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en). See my CV <a href="https://shushuzh.github.io/assets/pdf/CV_SZ.pdf">here</a>.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 <!---->
